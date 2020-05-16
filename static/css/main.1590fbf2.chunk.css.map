@@ -1,0 +1,1 @@
+{"version":3,"sources":["feedbackOptions.module.css"],"names":[],"mappings":"AAAA,+BACI,UAAW,CACX,qBAAsB,CACtB,YACJ,CAEA,sCACI,uCACJ","file":"main.1590fbf2.chunk.css","sourcesContent":[".button {\r\n    margin: 8px;\r\n    background-color: #fff;\r\n    outline: none;\r\n}\r\n\r\n.button:active {\r\n    background-color: rgba(108, 169, 248, 0.897);\r\n}"]}
